@@ -1,2 +1,3 @@
 # KMRT
-This App is about Kaohsiung MRT
+This is an APP about Kaohsiung MRT
+
